@@ -1,0 +1,12 @@
+div.img div {
+    display: none;
+}
+
+div#gallery-post {
+    margin-top: 15px;
+}
+
+div#gallery-post-reports table {
+    display: none;
+}
+
